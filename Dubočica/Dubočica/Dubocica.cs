@@ -19,6 +19,7 @@ namespace Dubocica
 
             // timer
             time = new Timer(1000);
+            time.Enabled = true; // DODAO <-----
             // what you need to add to timer so that it can work?
         }
 
@@ -38,7 +39,13 @@ namespace Dubocica
         private void checkCustomers() // pozivas svake sekunde preko Timer-a
         {
             Console.WriteLine(System.Reflection.MethodBase.GetCurrentMethod().Name);
-
+            
+            customersToServe.Peek(); // DODAO <-----
+            if (true) // DODAO <-----
+            {
+                customersToServe.Dequeue(); // DODAO <-----
+            } 
+            
             //customersToServe.Peek(); // does nothing in this context
             /*int ukupno = customersToServe.Count;
             Console.Write(customersToServe.Peek());
