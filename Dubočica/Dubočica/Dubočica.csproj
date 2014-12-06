@@ -7,7 +7,7 @@
     <ProjectGuid>{986D295F-FEAA-494B-9A6E-3185865B5C23}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Dubočica</RootNamespace>
+    <RootNamespace>Dubocica</RootNamespace>
     <AssemblyName>Dubočica</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

@@ -10,3 +10,9 @@ d:\documents\visual studio 2013\Projects\Dubočica\Dubočica\obj\Debug\Dubočica
 d:\documents\visual studio 2013\Projects\Dubočica\Dubočica\bin\Debug\Dubočica.exe
 d:\documents\visual studio 2013\Projects\Dubočica\Dubočica\bin\Debug\Dubočica.pdb
 d:\documents\visual studio 2013\Projects\Dubočica\Dubočica\obj\Debug\Dubočica.csprojResolveAssemblyReference.cache
+D:\Download\Dubocica\Dubocica\Dubočica\Dubočica\bin\Debug\Dubočica.exe.config
+D:\Download\Dubocica\Dubocica\Dubočica\Dubočica\obj\Debug\Dubočica.exe
+D:\Download\Dubocica\Dubocica\Dubočica\Dubočica\obj\Debug\Dubočica.pdb
+D:\Download\Dubocica\Dubocica\Dubočica\Dubočica\obj\Debug\Dubočica.csprojResolveAssemblyReference.cache
+D:\Download\Dubocica\Dubocica\Dubočica\Dubočica\bin\Debug\Dubočica.exe
+D:\Download\Dubocica\Dubocica\Dubočica\Dubočica\bin\Debug\Dubočica.pdb
