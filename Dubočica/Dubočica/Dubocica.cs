@@ -41,7 +41,7 @@ namespace Dubocica
             Console.WriteLine(System.Reflection.MethodBase.GetCurrentMethod().Name);
             
             customersToServe.Peek(); // DODAO <-----
-            if (true) // DODAO <-----
+            if (customersToServe == null) // DODAO <-----
             {
                 customersToServe.Dequeue(); // DODAO <-----
             } 
@@ -51,7 +51,8 @@ namespace Dubocica
             Console.Write(customersToServe.Peek());
             Console.Write("Jos ih je ostalo " + ukupno);*/
 
-            // you need to check here all Customers in queue if their sendviches are done, and if so remove them from queue
+            // you need to check here all Customers in queue if their sendviches are done, 
+            // and if so remove them from queue
         }
 
         public void startServing(bool shouldStartServing) // startuje timer
