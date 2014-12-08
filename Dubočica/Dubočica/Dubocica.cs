@@ -43,6 +43,7 @@ namespace Dubocica
             customersToServe.Peek(); // DODAO <-----
             if (customersToServe == null) // DODAO <-----
             {
+
                 customersToServe.Dequeue(); // DODAO <-----
             } 
             
