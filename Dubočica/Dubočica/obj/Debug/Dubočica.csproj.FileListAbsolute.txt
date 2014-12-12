@@ -25,3 +25,6 @@ D:\Documents\GitHub\Dubocica\Dubočica\Dubočica\obj\Debug\Dubočica.csprojResol
 D:\GitHub\Dubocica\Dubočica\Dubočica\bin\Debug\Dubočica.exe.config
 D:\GitHub\Dubocica\Dubočica\Dubočica\obj\Debug\Dubočica.exe
 D:\GitHub\Dubocica\Dubočica\Dubočica\obj\Debug\Dubočica.pdb
+D:\GitHub\Dubocica\Dubočica\Dubočica\bin\Debug\Dubočica.exe
+D:\GitHub\Dubocica\Dubočica\Dubočica\bin\Debug\Dubočica.pdb
+D:\GitHub\Dubocica\Dubočica\Dubočica\obj\Debug\Dubočica.csprojResolveAssemblyReference.cache
