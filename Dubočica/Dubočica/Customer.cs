@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -16,6 +17,18 @@ namespace Dubocica
         public Customer()
         {
             numberInLine = customerId++; // for next Customer this will be incremented by 1
+        }
+
+        public void tickCustomer()
+        {
+            Debug.Assert(sendvich != null);
+            sendvich.tickMakingOfSendvich();
+        }
+
+        public bool isThisCustomerServed()
+        {
+            Debug.Assert(sendvich != null);
+            return sendvich.done;
         }
     }
 }
